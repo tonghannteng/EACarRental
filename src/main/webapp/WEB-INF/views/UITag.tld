@@ -1,0 +1,15 @@
+<taglib>
+ 	<tlib-version>1.0</tlib-version>
+ 	<short-name>My Custom Tag</short-name>
+	<jsp-version>2.0</jsp-version>
+ 	<tag>
+ 		<name>UITag</name>
+ 		<tag-class>mum.cs544.project.view.UITag</tag-class>
+ 		<body-content>empty</body-content>
+ 		<attribute>
+            <name>type</name>
+            <required>yes</required>
+            <rtexprvalue>no</rtexprvalue>
+        </attribute>
+ 	</tag>
+</taglib>

@@ -1,0 +1,56 @@
+@CHARSET "ISO-8859-1";
+.containerBase {
+	margin: auto;
+	margin-top: 10px;
+	padding: 10px;
+	width: 500px;
+	border: 1px solid #999999;
+	position: relative
+}
+.containerBase2 {
+	margin: auto;
+	margin-top: 10px;
+	padding: 10px;
+	width: 500px;
+	border: 1px solid #999999;
+}
+.containerBase1 {
+	margin: auto;
+	margin-top: 10px;
+	padding: 10px;
+	width: 800px;
+	border: 1px solid #999999;
+	position: relative
+}
+.searcher {
+	margin: auto;
+	margin-top: 10px;
+	max-width: 500px;
+	border: 1px solid #999999;
+	position: relative
+}
+.searchterm {
+	width: 500px;
+}
+
+.searchContents{
+	overflow-y: auto;
+	height: 300px;
+}
+.car{
+	border-bottom:1px solid #DDDDDD;
+}
+.carData{
+	border:1px solid #DDDDDD;
+	padding-top: 4px;	
+	padding-bottom: 4px;
+	margin: 4px;
+}
+.carDataType{
+	background: #DDDDDD;
+	padding: 4px;	
+}
+.carDataValue{
+	color: black;
+	padding: 4px;
+}
